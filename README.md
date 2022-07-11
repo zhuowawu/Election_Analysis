@@ -27,5 +27,21 @@ The analysis of the election show that:
 - The winner of the election was Diana DeGette, who received 73.8% of the voted and 272,892 of votes.
 
 ## Challenge Overview
+Other than analyzing the results for each candidate, the votes cast by each county are also analyzed as follows.
+
+1. Determine the names of the counties participated in the election. 
+2. Calculate the total number of votes each county has cast.
+3. Calculate the percentage of votes each county has cast.
+4. Determine the biggest county turnout.
 
 ## Challenge Summary
+The analysis of the election shows that:
+- The counties were:
+  - Jefferson
+  - Denver
+  - Arapahoe
+- The county results were:
+  - Jefferson County cast 10.5% of the votes and 38,855 of votes.
+  - Denver County cast 82.8% of the votes and 306,055 of votes.
+  - Arapahoe cast 6.7% of the votes and 24,801 of votes.
+- The largest county turnout was Denver. 
